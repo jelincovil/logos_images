@@ -1,1 +1,1 @@
-# logo_images
+# Logos para el Github de dr. Jaime Lincovil.
